@@ -10,6 +10,17 @@
 "clear f4",
 "flag f3",
 "flag g3",
-"flag h3"
+"flag h3",
+"clear e3",
+"clear e4",
+"clear e5",
+"flag d5",
+"clear e3",
+"clear e4",
+"clear e5",
+"clear b5",
+"clear b6",
+"clear b7",
+"flag b8"
 ]
 }
