@@ -25,6 +25,9 @@
 "flag c1",
 "clear c2",
 "flag c3",
-"flag c4"
+"flag c4",
+"clear d4",
+"unflag f3",
+"flag d3"
 ]
 }
